@@ -41,3 +41,4 @@ Hit@3 = 100%, MRR = 1.0 (run `python evaluate.py` to reproduce).
 
 ## Tech stack
 Python, scikit-learn, pandas, Streamlit, pypdf, python-docx; optional sentence-transformers, Anthropic/OpenAI APIs.
+ **Live demo:** https://anjali-rag-docs-1.streamlit.app/
