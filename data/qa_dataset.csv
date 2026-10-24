@@ -1,0 +1,11 @@
+id,question,ground_truth_answer,source_file,answer_keyword,category
+1,How many days of annual leave do employees get per year?,24 days,employee_leave_policy.txt,24 days,leave
+2,How many unused leave days can be carried forward?,10 days,employee_leave_policy.txt,maximum of 10,leave
+3,When is a medical certificate required for sick leave?,If sick leave exceeds 3 consecutive days,employee_leave_policy.txt,3 consecutive days,leave
+4,How long is paid maternity leave?,26 weeks,employee_leave_policy.txt,26 weeks,leave
+5,How much notice is needed for planned leave?,5 working days in advance,employee_leave_policy.txt,5 working days,leave
+6,How many public holidays does the company observe?,12 public holidays,employee_leave_policy.txt,12 public holidays,leave
+7,How many days per week can eligible employees work remotely?,Up to 3 days per week,remote_work_and_it_security.txt,3 days per week,remote_work
+8,How long must passwords be?,At least 12 characters,remote_work_and_it_security.txt,12 characters,security
+9,Within what time must a phishing email be reported?,Within 1 hour,remote_work_and_it_security.txt,1 hour,security
+10,When must lost equipment be reported?,Within 24 hours to the IT helpdesk,remote_work_and_it_security.txt,24 hours,equipment

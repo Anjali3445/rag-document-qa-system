@@ -1,0 +1,11 @@
+id,question,hit,rank
+1,How many days of annual leave do employees get per year?,True,1
+2,How many unused leave days can be carried forward?,True,1
+3,When is a medical certificate required for sick leave?,True,1
+4,How long is paid maternity leave?,True,1
+5,How much notice is needed for planned leave?,True,1
+6,How many public holidays does the company observe?,True,1
+7,How many days per week can eligible employees work remotely?,True,1
+8,How long must passwords be?,True,1
+9,Within what time must a phishing email be reported?,True,1
+10,When must lost equipment be reported?,True,1

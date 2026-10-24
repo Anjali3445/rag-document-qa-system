@@ -1,0 +1,13 @@
+Remote Work and IT Security Guidelines - Acme Technologies
+
+Remote Work Eligibility. Employees who have completed 6 months of service may work remotely up to 3 days per week with manager approval. Customer-facing support teams must be in the office at least 4 days per week. Remote work arrangements are reviewed every 6 months.
+
+Equipment. The company provides one laptop and one monitor per employee. Lost or stolen equipment must be reported to the IT helpdesk within 24 hours. Employees are responsible for keeping company laptops encrypted and updated.
+
+Passwords and Authentication. Passwords must be at least 12 characters long and changed every 90 days. Multi-factor authentication is mandatory for email, VPN, and the cloud console. Sharing passwords with anyone, including colleagues, is strictly prohibited.
+
+VPN and Networks. All remote employees must connect through the company VPN when accessing internal systems. Public Wi-Fi should not be used for work unless the VPN is active.
+
+Reporting Security Incidents. Suspected phishing emails or data breaches must be reported to security@acme.example within 1 hour of discovery. Do not click suspicious links or forward the email to colleagues. The security team will respond within 4 hours.
+
+Data Handling. Confidential data must not be stored on personal devices or personal cloud drives. Customer data may only be shared externally after written approval from the Data Protection Officer.
